@@ -3,7 +3,7 @@ Simulated "highest value card wins" game
 
 ===============================
 
-Utils file provides the randomizer
+Utils file provides the randomizer.
 Players are initalized in the players file
 Cards are given value in the cards file
 The deck is initalized and shuffled in the decks file
