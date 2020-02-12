@@ -1,14 +1,12 @@
 # cardGameSim
 Simulated "highest value card wins" game
 
+===============================
+
 Utils file provides the randomizer
-
 Players are initalized in the players file
-
 Cards are given value in the cards file
-
 The deck is initalized and shuffled in the decks file
-
 Game file acts as the "main" and calls to the other header files to run the simulated highest value wins card game
 
 
