@@ -13,6 +13,7 @@ Game file acts as the "main" and calls to the other header files to run the simu
 
 
 Description: {
+
 52 standards playing card values are "shuffled" into a deck and dealt to the players. (using the randomizer in utils)
 
 Players 1 and 2 play out their turns either winning a round, losing, or by having a tie.
